@@ -11,11 +11,11 @@
 
 That said, the CGIs included here cover: 
  
-CGI_01: Getting Started in Python: Python and P(T,V) surfaces
-CGI_02: The relationships between internal energy, heat, work, and heat capacity 
-CGI_03: Enthalpy
-CGI_04a: Configuration Weights (Dominant Configurations)
-CGI_04b: Partition function and probability distributions 
-CGI_05: Entropy 
-CGI_06: Free Energy
-CGI_07: Chemical Potential, Phase Equilibria, Phase Diagrams 
+- CGI_01: Getting Started in Python: Python and P(T,V) surfaces
+- CGI_02: The relationships between internal energy, heat, work, and heat capacity 
+- CGI_03: Enthalpy
+- CGI_04a: Configuration Weights (Dominant Configurations)
+- CGI_04b: Partition function and probability distributions 
+- CGI_05: Entropy 
+- CGI_06: Free Energy
+- CGI_07: Chemical Potential, Phase Equilibria, Phase Diagrams 
